@@ -1,8 +1,11 @@
-### 10/17/2019
+### 10.17.19
 
 **ABOUT THIS SITE**
+
 This site is devoted to 2 things:
+
 (1) Examining how the term/concept "power" circulates in popular discourse (semi-substantive material! woo!)
+
 (2) Curating playfully satirical sendups of academia (self-flagellation! woo!)
 
 
