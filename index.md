@@ -18,7 +18,7 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 **AND NOW HERE'S A LINK TO THIS SITE'S BIZARRO-WORLD COMPANION**
 
-[https://en.wikipedia.org/wiki/Power_pop](url)
+[https://en.wikipedia.org/w/index.php?title=Power_pop&oldid=921340049](url)
 
 
 
