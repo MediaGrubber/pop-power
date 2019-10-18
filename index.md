@@ -1,5 +1,13 @@
 ## 10.17.19
 
+**ABOUT THE PERSON RUNNING THIS SITE**
+
+HIS NAME = Stephen Paur
+
+HIS AGE = 28
+
+THINGS HE DOES = teaches in the University of Arizona Writing Program; studies in the UA PhD program in Rhetoric, Composition, and the Teaching of English (RCTE); lounges on rooftops; tickles cactus; chugs caipirinhas.
+
 **ABOUT THIS SITE**
 
 This site is devoted to 2 things:
