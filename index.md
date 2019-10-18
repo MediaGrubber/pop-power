@@ -6,7 +6,7 @@ HIS NAME = Stephen Paur
 
 HIS AGE = 28
 
-THINGS HE DOES = teaches in the University of Arizona Writing Program; studies in the UA PhD program in Rhetoric, Composition, and the Teaching of English (RCTE); lounges on rooftops; tickles cactus; chugs caipirinhas.
+THINGS HE DOES = teaches in the University of Arizona Writing Program in Tucson, AZ; studies in UA's PhD program in Rhetoric, Composition, and the Teaching of English (RCTE); lounges on rooftops; tickles cactus; chugs caipirinhas.
 
 **ABOUT THIS SITE**
 
