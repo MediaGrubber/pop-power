@@ -14,9 +14,9 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 "As paradigm shifts in X and Y continue to force us to revamp our definitions of A and B, the debates over the appropriate meanings for R will most likely become even more heated—and, perhaps to those outside academic communities, increasingly irrelevant."
 
-^ Based on a sentence from Derek Owens' contribution to _Keywords in Writing Studies_ (Boynton/Cook, 1996), in which X = technology, Y = culture, A = literacy, B = writing, and R = the essay.
+^ Based on a sentence from Derek Owens' contribution to _Keywords in Composition Studies_ (Boynton/Cook, 1996), in which X = technology, Y = culture, A = literacy, B = writing, and R = the essay.
 
-**AND HERE'S A LINK TO THIS SITE'S BIZARRO-WORLD COMPANION**
+**AND NOW HERE'S A LINK TO THIS SITE'S BIZARRO-WORLD COMPANION**
 
 [https://en.wikipedia.org/wiki/Power_pop](url)
 
