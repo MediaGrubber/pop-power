@@ -36,8 +36,6 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 **ABOUT THE SYNTAX USED TO COMPOSE SITE ENTRIES**
 
-### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
