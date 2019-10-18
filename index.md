@@ -4,9 +4,25 @@
 
 This site is devoted to 2 things:
 
-(1) Examining how the term/concept "power" circulates in popular discourse (semi-substantive material! woo!)
+(1) Examining how the term/concept "power" circulates in popular discourse (semi-substantive stuff! woo!)
 
 (2) Curating playfully satirical sendups of academia (self-flagellation! woo!)
+
+**FOR AN EXAMPLE OF (2)**
+
+I hereby submit the following formula in an attempt to encapsulate basically all scholarly existential crises:
+
+"As paradigm shifts in X and Y continue to force us to revamp our definitions of A and B, the debates over the appropriate meanings for R will most likely become even more heated—and, perhaps to those outside academic communities, increasingly irrelevant."
+
+^ Based on a sentence from Derek Owens' contribution to _Keywords in Writing Studies_ (Boynton/Cook, 1996), in which X = technology, Y = culture, A = literacy, B = writing, and R = the essay.
+
+
+
+
+
+
+
+
 
 
 ## Welcome to GitHub Pages
