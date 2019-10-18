@@ -26,8 +26,7 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 
 
-
-_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 
+(space-holder)
 
 ## Welcome to GitHub Pages
 
