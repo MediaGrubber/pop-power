@@ -24,7 +24,7 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 ^ Based on a sentence from Derek Owens' contribution to _Keywords in Composition Studies_ (Boynton/Cook, 1996), in which X = technology, Y = culture, A = literacy, B = writing, and R = the essay.
 
-**AND [NOW HERE'S A LINK](https://en.wikipedia.org/w/index.php?title=Power_pop&oldid=921340049) TO THIS SITE'S BIZARRO-WORLD COMPANION**
+**TO CONCLUDE THIS ENTRY, [HERE'S A LINK](https://en.wikipedia.org/w/index.php?title=Power_pop&oldid=921340049) TO THIS SITE'S BIZARRO-WORLD COMPANION**
 
 
 
