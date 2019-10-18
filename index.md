@@ -15,7 +15,7 @@ This site is devoted to 2 things:
 1. Examining how the term/concept "power" circulates in popular discourse (semi-substantive stuff! woo!)
 2. Curating playfully satirical sendups of academia (self-flagellation! woo!)
 
-**HERE'S AN EXAMPLE OF (2)**
+**HERE'S AN EXAMPLE OF THE SECOND THING**
 
 I hereby submit the following formula in an attempt to encapsulate basically all scholarly existential crises:
 
