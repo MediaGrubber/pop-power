@@ -1,4 +1,4 @@
-### 10.17.19
+## 10.17.19
 
 **ABOUT THIS SITE**
 
@@ -8,7 +8,7 @@ This site is devoted to 2 things:
 
 (2) Curating playfully satirical sendups of academia (self-flagellation! woo!)
 
-**FOR AN EXAMPLE OF (2)**
+**HERE'S AN EXAMPLE OF (2)**
 
 I hereby submit the following formula in an attempt to encapsulate basically all scholarly existential crises:
 
@@ -16,6 +16,9 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 ^ Based on a sentence from Derek Owens' contribution to _Keywords in Writing Studies_ (Boynton/Cook, 1996), in which X = technology, Y = culture, A = literacy, B = writing, and R = the essay.
 
+**AND HERE'S A LINK TO THIS SITE'S BIZARRO-WORLD COMPANION**
+
+[https://en.wikipedia.org/wiki/Power_pop]
 
 
 
@@ -24,6 +27,7 @@ I hereby submit the following formula in an attempt to encapsulate basically all
 
 
 
+_  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 
 
 ## Welcome to GitHub Pages
 
