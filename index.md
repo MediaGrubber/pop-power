@@ -1,3 +1,11 @@
+### 10/17/2019
+
+**ABOUT THIS SITE**
+This site is devoted to 2 things:
+(1) Examining how the term/concept "power" circulates in popular discourse (semi-substantive material! woo!)
+(2) Curating playfully satirical sendups of academia (self-flagellation! woo!)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MediaGrubber/pop-power/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
