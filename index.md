@@ -12,8 +12,8 @@ THINGS HE DOES = teaches in the University of Arizona Writing Program in Tucson,
 
 This site is devoted to 2 things:
 
-1. Examining how the term/concept "power" circulates in popular discourse (semi-substantive stuff! woo!)
-2. Curating playfully satirical sendups of academia (self-flagellation! woo!)
+1. Examining how the term/concept "power" circulates in popular discourse (semi-substantive stuff!)
+2. Curating playfully satirical sendups of academia (self-flagellation!)
 
 **HERE'S AN EXAMPLE OF THE SECOND THING**
 
