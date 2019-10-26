@@ -17,7 +17,7 @@ This site is devoted to 2 things:
 
 **HERE'S AN EXAMPLE OF THE SECOND THING**
 
-I hereby submit the following formula in an attempt to encapsulate basically all scholarly existential crises:
+The following formula is an attempt to encapsulate basically all scholarly existential crises:
 
 "As paradigm shifts in X and Y continue to force us to revamp our definitions of A and B, the debates over the appropriate meanings for R will most likely become even more heated—and, perhaps to those outside academic communities, increasingly irrelevant."
 
