@@ -51,7 +51,7 @@ Then I found GitHub! And here we are.
 
 ## 12.10.19
 
-**THIS BLOG'S AUTHOR CALLS A BLOG AUDIBLE, aka a BLOGDIBLE**
+**THIS BLOG'S AUTHOR CALLS A BLOG AUDIBLE, AKA A BLOGDIBLE**
 
 This blog is no longer about "power."
 It is now about something else.
