@@ -72,7 +72,7 @@ Stay tuned!
 
 *I HEREBY PRESENT WITHOUT FURTHER ADO:*
 
-**A VERY LABORIOUS LABOR REFLECTION**
+**A LABORIOUS LABOR REFLECTION**
 
 **First: METRICS by which to quantify the labor required to produce this blog post:**
 
@@ -194,14 +194,15 @@ Something I do really appreciate about labor-based contract grading is the way i
 
 At the same time, aren’t concision and efficiency often considered writerly virtues? If so, isn’t a “labor-based” approach antithetical to this “less is more” attitude?
 
-At the very least, the approach can lead to some mixed messages. Worried about whether or not the labor I was putting into my final project would be considered sufficient or comprehensive enough, I gave myself permission, in some sections, to be a little meandering, a little digressive . . . Which could easily be misinterpreted as trying to show off, or something — trying to strike a “look how much I know!” pose. Indeed, this slightly digressive section earned this comment: “excessive.”
+At the very least, the approach can lead to some mixed messages. Worried about whether or not the labor I was putting into my final project would be considered sufficient or comprehensive enough, I gave myself permission, in some sections, to be a little meandering, a little digressive . . . Which could easily be misinterpreted as trying to show off, or something. Indeed, this slightly digressive section earned this comment: “excessive.”
 
-This, as you might imagine, left me slightly confused. Hey, wait a minute! I thought. Isn’t this whole class based on the idea that the more labor, the better? The difference between an A and a B, after all, is whether or not students perform “additional labor.” Isn’t an “excessive” Statement of Positionality evidence of my labor? The reality, after all, was just that I was paranoid about whether or not the labor I was demonstrating was adequate. 
+This, as you might imagine, left me slightly confused. Hey, wait a minute! I thought. Isn't the whole class structured around the idea that the more labor, the better? The difference between a B and an A, after all, is whether or not students perform “additional labor.” In that context, isn't “excess” just evidence of my labor? Of a desire to be thorough? (The reality, after all, was that I was a little paranoid about whether or not the labor I was demonstrating was adequate...)
 
-The problem, of course, is that more _isn’t_ always better. I think it was Annie Dillard who counseled: “Write as if your audience consists solely of terminal patients. That is, after all, the case.” The clock’s ticking for all of us, and writers who respect their readers don’t waste those readers’ time. If my writing comes across as “excessive,” I must not be respecting my reader as much as I thought I was, and it’s certainly important to have that pointed out.
+The problem, of course, is that more _isn’t_ always better. I think it was Annie Dillard who counseled: “Write as if your audience consists solely of terminal patients. That is, after all, the case.” The clock’s ticking for all of us, and writers who respect their readers don’t waste those readers’ time. I don't want to sound salty: if my writing comes across as “excessive,” I must not be respecting my reader as much as I thought I was, and it’s certainly important to have that pointed out.
 
-So, while I don’t want to sound miffed, it is a bit curious how efforts to make labor visible are only selectively rewarded. This creates confusion. And it prompts me to wonder: How do you make visible the labor that goes into making something _shorter_? Especially if teachers never see the longer version? 
-(Also unclear: What’s the best way to _measure_ the labor that does get made visible? Just because two students both write ten-page papers doesn’t mean they spent the same amount of time and energy doing so . . . )
+It's just a bit curious how efforts to make labor visible are only selectively rewarded. This creates some confusion, is all. And it prompts me to wonder: How do you make visible the labor that goes into making something _shorter_? Especially if teachers never see the longer version?
+
+(Also unclear: What’s the best way to _measure_ the labor that does get made visible? My METRICS section at the very beginning is meant to suggest that comprehensive, accurate visibility might not be possible. Furthermore, just because two students both write, say, ten-page papers doesn’t mean they spent the same amount of time and energy doing so . . . )
 
 The fiction writer George Saunders says that he keeps roughly 25 of every 100 words he writes. We have that in common (and that’s about it, unfortunately). Not only that, but much of what I write, I wouldn’t force my worst enemy to read.
 
