@@ -32,10 +32,7 @@ The following formula is an attempt to encapsulate basically all scholarly exist
 **ANOTHER EXAMPLE OF THE SECOND THING**
 
 The following is from Kurt Spellmeyer's “After Theory: From Textuality to Attunement with the World” (_College English_, vol. 58, no. 8, 1996, pp. 893-913):
-
-```markdown
-Spivak's rhetoric . . . compels its readers to abandon Mahasweta's words in order to wander through the labyrinths of Foucault's, Derrida's, Volosinov's, and Lacan's. And the result is not emancipation but a forced admission on the reader's part that even when these eminent intellects make very little sense indeed, they still somehow think more usefully than the ordinary reader ever could. If there are any 'subalterns' to be found in this particular study, one of them is surely the reader, insofar as Spivak's practice of theory does to that reader what educators do to the people they have stigmatized as 'remedial.' By refashioning the character of 'literacy' itself, the practitioners of theory have learned to transform whole shoals of articulate PhDs into stammering 'illiterates.' (898)
-```
+> Spivak's rhetoric . . . compels its readers to abandon Mahasweta's words in order to wander through the labyrinths of Foucault's, Derrida's, Volosinov's, and Lacan's. And the result is not emancipation but a forced admission on the reader's part that even when these eminent intellects make very little sense indeed, they still somehow think more usefully than the ordinary reader ever could. If there are any 'subalterns' to be found in this particular study, one of them is surely the reader, insofar as Spivak's practice of theory does to that reader what educators do to the people they have stigmatized as 'remedial.' By refashioning the character of 'literacy' itself, the practitioners of theory have learned to transform whole shoals of articulate PhDs into stammering 'illiterates.' (898)
 
 
 
