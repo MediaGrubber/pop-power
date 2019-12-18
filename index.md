@@ -129,7 +129,9 @@ In Matthew Abraham’s [“Rhetoric and Composition’s Conceptual Indeterminacy
 I can’t help but wonder if there’s a chance that, at least at the graduate level, labor-based contract grading (with its emphasis on quantity over quality) might undermine disciplinary legitimacy by perpetuating a culture — or, at the very least, a _perceived_ culture — of laissez-faire permissiveness.
 
 **2 —**
-Of course, just because work doesn’t get graded doesn’t mean we don’t get feedback, and feedback is, I’d argue — regardless of the form it takes — inherently evaluative. For example, in an early course assignment, I proposed “exceed[ing] this course’s default grade expectations [a B] by performing additional labor via the ‘going public’ option [which you’re reading now!], thereby increasing my chances of earning an A.”
+Of course, just because work doesn’t get graded doesn’t mean we don’t get extensive, ongoing feedback. We do.
+
+Feedback is, I’d argue — regardless of the form it takes — inherently evaluative. For example, in an early course assignment, I proposed “exceed[ing] this course’s default grade expectations [a B] by performing additional labor via the ‘going public’ option [which you’re reading now!], thereby increasing my chances of earning an A.”
 
 I received the following reply from the course instructor: “Excellent. I find this to be feasible and highly useful. The how of going public is less well articulated. What I would like to know is what platform or medium you will use to go public and if you plan to post videos, blogs, or something else.”
 
