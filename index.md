@@ -41,8 +41,9 @@ Actually, that's not satirical, it's a direct quote. Sorry. Still pretty hilario
 
 **SPECIAL BEHIND-THE-SCENES LOOK INTO THE COMPOSING THOUGHT PROCESS**
 
-`Something I wrote before making this blog:`
-My initial plan was to make a Tumblr blog page; I have some experience with that platform. Lately, however, I’ve been remembering that I need to stop compromising my principles so often by, among other things, being so dependent on proprietary corporate software. Basically my whole life is stored on Google Drive, for example. This is a problem. Instead of being so beholden to Tumblr, Google, Adobe, and their ilk, I’d like to find some open-source, non-proprietary software that I can use to host my little blog project.
+Something I wrote before making this blog:
+
+> My initial plan was to make a Tumblr blog page; I have some experience with that platform. Lately, however, I’ve been remembering that I need to stop compromising my principles so often by, among other things, being so dependent on proprietary corporate software. Basically my whole life is stored on Google Drive, for example. This is a problem. Instead of being so beholden to Tumblr, Google, Adobe, and their ilk, I’d like to find some open-source, non-proprietary software that I can use to host my little blog project.
 
 Then I found GitHub! And here we are.
 
