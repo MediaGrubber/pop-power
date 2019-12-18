@@ -12,8 +12,8 @@ THINGS HE DOES = teaches in the University of Arizona Writing Program in Tucson,
 
 This site is devoted to 2 things:
 
-1. Examining how the term/concept "power" circulates in popular discourse (semi-substantive stuff!)
-2. Curating playfully satirical sendups of academia (self-flagellation!)
+1. Examining how the term/concept "power" circulates in popular discourse (serious stuff! )
+2. Curating playfully satirical sendups of academia (self-flagellation! to keep things from getting too serious)
 
 **HERE'S AN EXAMPLE OF THE SECOND THING**
 
@@ -27,9 +27,37 @@ The following formula is an attempt to encapsulate basically all scholarly exist
 
 
 
+## 11.11.19
+
+**ANOTHER EXAMPLE OF THE SECOND THING**
+
+The following is from Kurt Spellmeyer's “After Theory: From Textuality to Attunement with the World” (_College English_, vol. 58, no. 8, 1996, pp. 893-913):
+`Spivak's rhetoric . . . compels its readers to abandon Mahasweta's words in order to wander through the labyrinths of Foucault's, Derrida's, Volosinov's, and Lacan's. And the result is not emancipation but a forced admission on the reader's part that even when these eminent intellects make very little sense indeed, they still somehow think more usefully than the ordinary reader ever could. If there are any 'subalterns' to be found in this particular study, one of them is surely the reader, insofar as Spivak's practice of theory does to that reader what educators do to the people they have stigmatized as 'remedial.' By refashioning the character of 'literacy' itself, the practitioners of theory have learned to transform whole shoals of articulate PhDs into stammering 'illiterates.' (898)`
 
 
 
+## 12.10.19
+
+**THIS BLOG'S AUTHOR CALLS A BLOG AUDIBLE, aka a BLOGDIBLE**
+
+This blog is no longer about "power."
+It is now about something else.
+
+
+
+## 12.15.19
+
+**WHAT IS THAT SOMETHING ELSE, YOU ASK?**
+
+Stay tuned!
+
+
+
+## 12.17.19
+
+**A VERY LABORIOUS LABOR REFLECTION, THAT'S WHAT!**
+
+Post under construction.
 
 
 
