@@ -183,7 +183,7 @@ I’m not convinced “intrinsic motivation” is even a thing. (Maybe the intri
 
 Anyway: I’m pretty sure _all_ motivations are extrinsic. What this means is that not only are grades not the only extrinsic motivators, they’re also not the most significant ones.
 
-Case in point: at this time of the semester, I have exactly zero intrinsic motivation. I’ve been spending so much time writing and revising final course projects, by this point, that I’m completely sick of them. If it were totally up to me, I’d put it all aside and not come back to it till February, when I could look at it with semi-fresh eyes. And yet . . . it’s not totally up to me (and it probably shouldn’t be), because my motivation to pass the course overrides my motivation to take a three-week, energy-restoring nap.
+Case in point: at this time of the semester, I have exactly zero intrinsic motivation. I’ve been spending so much time writing and revising final course projects, by this point, that I'm pretty tired of them. If it were totally up to me, I’d put it all aside and not come back to it till February, when I could look at it with semi-fresh eyes. And yet . . . it’s not totally up to me (and it probably shouldn’t be), because my motivation to pass the course overrides my motivation to take a three-week, energy-restoring nap.
 
 Basically what it comes down to is this: if I don’t pass my courses, I won’t be in “good academic standing,” which I need to maintain if I want to keep my GTA appointment. The main reason I’m revising my final projects right now, in other words, is because I don’t want to lose my job. 
 
