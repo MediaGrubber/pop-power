@@ -71,8 +71,10 @@ Stay tuned!
 **CONTRACT GRADING, THAT'S WHAT!**
 
 *I HEREBY PRESENT:*
+
 **A VERY LABORIOUS LABOR REFLECTION**
-*(LABORIOUS TO READ _AND_ LABORIOUS TO WRITE)*
+
+(laborious to read AND laborious to write)
 
 _Metrics by which to quantify the labor required to produce this blog post:_
 > words that appear below: 4,000ish
