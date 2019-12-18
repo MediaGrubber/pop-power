@@ -12,7 +12,7 @@ THINGS HE DOES = teaches in the University of Arizona Writing Program in Tucson,
 
 This site is devoted to 2 things:
 
-1. Examining how the term/concept "power" circulates in popular discourse (serious stuff! )
+1. Examining how the term/concept "power" circulates in popular discourse (semi-serious stuff!)
 2. Curating playfully satirical sendups of academia (self-flagellation! to keep things from getting too serious)
 
 **HERE'S AN EXAMPLE OF THE SECOND THING**
