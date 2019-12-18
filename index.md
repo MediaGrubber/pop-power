@@ -2,7 +2,7 @@
 
 **ABOUT THE PERSON RUNNING THIS SITE**
 
-HIS NAME = Stephen Paur
+HIS NAME = Stephen
 
 HIS AGE = 28
 
