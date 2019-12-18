@@ -68,7 +68,11 @@ Stay tuned!
 
 ## 12.17.19
 
-**A VERY LABORIOUS LABOR REFLECTION, THAT'S WHAT!**
+**CONTRACT GRADING, THAT'S WHAT!**
+
+*I HEREBY PRESENT:*
+**A VERY LABORIOUS LABOR REFLECTION**
+*(LABORIOUS TO READ _AND_ LABORIOUS TO WRITE)*
 
 _Metrics by which to quantify the labor required to produce this blog post:_
 > words that appear below: 4,000ish
