@@ -18,9 +18,7 @@ This site is devoted to 2 things:
 **HERE'S AN EXAMPLE OF THE SECOND THING**
 
 The following formula is an attempt to encapsulate basically all scholarly existential crises:
-
-"As paradigm shifts in X and Y continue to force us to revamp our definitions of A and B, the debates over the appropriate meanings for R will most likely become even more heated—and, perhaps to those outside academic communities, increasingly irrelevant."
-
+> As paradigm shifts in X and Y continue to force us to revamp our definitions of A and B, the debates over the appropriate meanings for R will most likely become even more heated—and, perhaps to those outside academic communities, increasingly irrelevant."
 ^ Based on a sentence from Derek Owens' contribution to _Keywords in Composition Studies_ (Boynton/Cook, 1996), in which X = technology, Y = culture, A = literacy, B = writing, and R = the essay.
 
 **TO CONCLUDE THIS ENTRY, [HERE'S A LINK](https://en.wikipedia.org/w/index.php?title=Power_pop&oldid=921340049) TO THIS SITE'S BIZARRO-WORLD COMPANION**
