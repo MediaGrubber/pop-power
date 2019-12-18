@@ -70,18 +70,17 @@ Stay tuned!
 
 **CONTRACT GRADING, THAT'S WHAT!**
 
-*I HEREBY PRESENT:*
+*I HEREBY PRESENT WITHOUT FURTHER ADO:*
 
 **A VERY LABORIOUS LABOR REFLECTION**
 
-(laborious to read AND laborious to write)
+**First: METRICS by which to quantify the labor required to produce this blog post:**
+words that appear below = 4,000ish
+words that were written and then deleted = unknown (you don’t want to know)
+hours spent = unknown (way too many)
+calories burned = unknown (not nearly enough)
 
-_Metrics by which to quantify the labor required to produce this blog post:_
-> words that appear below: 4,000ish
-> words that were written and then deleted: unknown (you don’t want to know)
-> hours spent: unknown (way too many)
-> calories burned: unknown (not nearly enough)
-
+**Second: the BLOG POST itself:**
 What gets you out of bed in the morning? The smell of percolating coffee? The whine of your bladder-bloated labradoodle? Morning UV rays refracted through the bedroom window, warming your cheek and eyelids?
 
 For my middle-school self, none of these quite did the trick: I had a pathetically hard time getting up when I was supposed to. This of course created problems for my mom, who drove my sister and me to school (where my mom also taught), and for my dad, who also had a job to get to and didn’t have a ton of time to waste, either, trying to coax me out from under the quilt. He thus had no choice but to employ the following wake-up tactics: lights switched on, covers torn back (like a magician’s reveal: incredible! there’s a boy under there!), and, to top it off, a spray bottle filled with cold water. This last one wasn’t exactly the extrinsic motivator I wanted, but it was the one I needed (and also, yes, the one I probably deserved).
