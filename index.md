@@ -126,7 +126,7 @@ Institutional mandates aside, though, here are some other potential problems and
 **1 —**
 In Matthew Abraham’s [“Rhetoric and Composition’s Conceptual Indeterminacy as Political-Economic Work](http://www.ncte.org/library/NCTEFiles/Resources/Journals/CCC/0681-sep2016/CCC0681Rhetoric.pdf),” he suggests it’s important for the field of rhetoric and composition to devise some kind of credentialing apparatus — something equivalent to engineers’ FE and PE exams, lawyers’ bar exams, or accountants’ CPA exams — something to help certify demonstrable competence and expertise (thereby helping, indirectly, consolidate disciplinary legitimacy).
 
-I can’t help but wonder if there’s a chance that, at least at the graduate level, labor-based contract grading (with its emphasis on quantity over quality) might undermine disciplinary legitimacy by perpetuating a culture — or, at the very least, a perceived culture — of laissez-faire permissiveness.
+I can’t help but wonder if there’s a chance that, at least at the graduate level, labor-based contract grading (with its emphasis on quantity over quality) might undermine disciplinary legitimacy by perpetuating a culture — or, at the very least, a _perceived_ culture — of laissez-faire permissiveness.
 
 **2 —**
 Of course, just because work doesn’t get graded doesn’t mean we don’t get feedback, and feedback is, I’d argue — regardless of the form it takes — inherently evaluative. For example, in an early course assignment, I proposed “exceed[ing] this course’s default grade expectations [a B] by performing additional labor via the ‘going public’ option [which you’re reading now!], thereby increasing my chances of earning an A.”
