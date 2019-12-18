@@ -177,7 +177,7 @@ Indeed, how much does my knowledge of, say, the French yellow vest movement (whi
 
 **REACTION 2**
 
-I’m not sure I believe “intrinsic motivation” is a thing. (Maybe the intrinsic/extrinsic binary is another way of expressing the wants/needs binary? Still: wants and needs aren’t all that separable. I _need_ to eat to survive; I _want_ food that tastes good. I _need_ a job to afford food; I _want_ a job that’s challenging and rewarding. I _need_ to pass this class; I _want_ to get better at writing stuff that people, including instructors, like reading. It’s all connected. No desire exists independently of our desire to be desired, rewarded, valued, and validated by others.)
+I’m not sure I believe “intrinsic motivation” is a thing. (Maybe the intrinsic/extrinsic binary is another way of expressing the wants/needs binary? Still: wants and needs aren’t all that separable. I _need_ to eat to survive; I _want_ food that tastes good. I _need_ a job to afford food; I _want_ a job that’s challenging and rewarding. I _need_ to pass this class; I _want_ to get better at writing stuff that people, including instructors, like reading. It’s all connected. No desire exists independently of our desire to be liked, rewarded, valued, and validated by others.)
 
 Anyway: I’m pretty sure _all_ motivations are extrinsic. So, not only are grades not the only extrinsic motivators, they’re also not the most significant ones.
 
