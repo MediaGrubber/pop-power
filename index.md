@@ -110,7 +110,7 @@ Ira Shor (2009):
 [“Critical Pedagogy Is Too Big Too Fail”](https://www.goucher.edu/learn/academic-centers/hispanic-and-latinx-studies/documents/Shor.pdf)
 
 Asao Inoue (2019):
-[Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom](https://wac.colostate.edu/docs/books/labor/contracts.pdf)
+[_Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom_](https://wac.colostate.edu/docs/books/labor/contracts.pdf)
 
 
 I certainly don’t want to ignore or dismiss this work. Just thought I’d offer a street-level view of how some of the norms and expectations created by a labor-based contract-grading scheme have been negotiated, with varying degrees of success, by one particular grad student, meaning me.
@@ -198,7 +198,7 @@ This, as you might imagine, left me slightly confused. Hey, wait a minute! I tho
 
 The problem, of course, is that more _isn’t_ always better. I think it was Annie Dillard who counseled: “Write as if your audience consists solely of terminal patients. That is, after all, the case.” The clock’s ticking for all of us, and writers who respect their readers don’t waste those readers’ time. If my writing comes across as “excessive,” I must not be respecting my reader as much as I thought I was, and it’s certainly important to have that pointed out.
 
-So, while I don’t want to sound miffed, it is a bit curious how efforts to make labor visible are only selectively rewarded. This creates confusion. And it prompts me to wonder: How do you make visible the labor that goes into making something shorter? Especially if teachers never see the longer version? 
+So, while I don’t want to sound miffed, it is a bit curious how efforts to make labor visible are only selectively rewarded. This creates confusion. And it prompts me to wonder: How do you make visible the labor that goes into making something _shorter_? Especially if teachers never see the longer version? 
 (Also unclear: What’s the best way to _measure_ the labor that does get made visible? Just because two students both write ten-page papers doesn’t mean they spent the same amount of time and energy doing so . . . )
 
 The fiction writer George Saunders says that he keeps roughly 25 of every 100 words he writes. We have that in common (and that’s about it, unfortunately). Not only that, but much of what I write, I wouldn’t force my worst enemy to read.
