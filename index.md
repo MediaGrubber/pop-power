@@ -218,7 +218,7 @@ Which then made me think: “Hm, I wonder if labor-based contract grading really
 
 Then . . . well, one thing led to another, and I ended up wasting a bunch of time writing this blog post — not because I was “intrinsically motivated” to do so, or because I feel there’s a giant difference between getting an A and getting a B, but mainly because writing all this down is the best way to get myself to stop thinking about (read: agonizing over) it.
 
-And also because I think it’s important for teachers to realize that an (as far as I can tell) undertheorized alternative grading scheme can potentially do more harm than good, especially if it leads students like me to compose excessive blog posts in an attempt to resolve what might turn out to be unresolvable contradictions.
+And also because I think it’s important for teachers to consider the possibility that an undertheorized alternative grading scheme can potentially do more harm than good — especially if it leads students like me to compose excessive blog posts in an attempt to resolve what might turn out to be unresolvable contradictions.
 
 **TANGENTIAL POSTSCRIPT**
  
