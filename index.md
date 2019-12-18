@@ -218,15 +218,15 @@ Which then made me think: “Hm, I wonder if labor-based contract grading really
 
 Then . . . well, one thing led to another, and I ended up wasting a bunch of time writing this blog post — not because I was “intrinsically motivated” to do so, or because I feel there’s a giant difference between getting an A and getting a B, but mainly because writing all this down is the best way to get myself to stop thinking about (read: agonizing over) it.
 
-And also because I think it’s important for teachers to realize that an (as far as I can tell) undertheorized alternative grading scheme can potentially do more harm than good, especially if it leads students like me to compose excessive blog posts in an attempt to resolve what turn out to be unresolvable contradictions.
+And also because I think it’s important for teachers to realize that an (as far as I can tell) undertheorized alternative grading scheme can potentially do more harm than good, especially if it leads students like me to compose excessive blog posts in an attempt to resolve what might turn out to be unresolvable contradictions.
 
-**POSTSCRIPT**
+**TANGENTIAL POSTSCRIPT**
  
 Will this post come back to bite me? What if, five-ish years from now, I find myself applying for a job at a program where a prominent contract grading theorist works? Am I shooting myself in the foot by attaching my name to a post like this?
 
 These concerns parallel related concerns about asking my own students to compose publicly accessible e-portfolios. “Who’s going to see this?” I ask them. We spend a little time talking through the probable and intended audiences for their blogs: me, the UA Writing Program, the students themselves, maybe a grandparent they want to impress. But we also spend some time talking through the _possible_ audiences. At this point, when I ask, “Who else will be able to see this?” I’m fishing for a specific answer. If no one offers it, I do: “Literally anyone in the world with an internet connection,” I say.
 
-I’d argue that instructors who mandate publicly accessible work — from periodic, informal blog posts to Adobe Spark-based e-portfolios — have an ethical duty to make this fact clear to students. Oftentimes, students are comfortable sharing things about themselves — political and religious views, various identity-based allegiances, etc. — with their instructor and others in the class that they don’t necessarily want to broadcast to the whole world. Of course, there’s no reason they _should_ be judged or discriminated against by, say, a prospective employer who Googles their names four years from now. Unfortunately, that’s a possibility — one they need to be made aware of.
+I’d argue that instructors like me who mandate publicly accessible work — from periodic, informal blog posts to Adobe Spark-based e-portfolios — have an ethical duty to make this fact clear to students. Oftentimes, students are comfortable sharing things about themselves — political and religious views, various identity-based allegiances, etc. — with their instructor and others in the class that they don’t necessarily want to broadcast to the whole world. Of course, there’s no reason they _should_ be judged or discriminated against by, say, a prospective employer who Googles their names four years from now. Unfortunately, that’s a possibility — one they should be be made aware of.
 
 
 
